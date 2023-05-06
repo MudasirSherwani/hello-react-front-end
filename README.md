@@ -35,6 +35,8 @@
 
 This is a simple React application that fetches data from an API endpoint and displays the random greetings data. It is developed using React and Redux (State management).
 
+[The API Rails Back End Application](https://github.com/MudasirSherwani/hello-rails-back-end)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
